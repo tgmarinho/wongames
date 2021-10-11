@@ -20,5 +20,4 @@ module.exports = {
 
     ctx.send("Finished populating!");
   },
-  },
 };
